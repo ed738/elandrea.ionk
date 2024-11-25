@@ -28,7 +28,7 @@
   "devDependencies": {
     "@sveltejs/adapter-node": "1.0.0-next.58",
     "@sveltejs/adapter-static": "1.0.0-next.24",
-    "@sveltejs/kit": "1.0.0-next.212",
+    "@sveltejs/kit": "2.8.3",
     "@typescript-eslint/eslint-plugin": "^5.9.0",
     "@typescript-eslint/parser": "^5.9.0",
     "autoprefixer": "^10.4.1",
